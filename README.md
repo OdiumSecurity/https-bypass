@@ -1,4 +1,4 @@
-This script was made my Me i just deobfuscated it
+This script was made my Me
 
 donate
 
